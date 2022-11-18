@@ -1,0 +1,63 @@
+body {
+    background-image: url(./conjunto-de-cosmeticos-decorativos-produtos-de-maquiagem-no-fundo-branco-vista-superior_87742-11617.jpg );
+    background-size: 1500vh 1200vw;
+    display: block;
+}
+
+div {
+    font-size: 40px;
+    display: block;
+
+}
+
+img {
+    height: 30vh;
+    width: 20vw;
+    border-radius: 40px;
+
+}
+
+h1 {
+    color: rgb(43, 172, 129);
+    text-shadow: 10px 10px 8px;
+    display: block;
+    border-radius: 1px;
+}
+
+h2 {
+    color: #ffa500;
+    text-shadow: 15px 20px 10px;
+}
+
+h3 {
+    color: #ffa500;
+    text-shadow: 10px 10px 10px;
+}
+
+.contatos {
+    font-size: 40px;
+}
+
+.titulo1 {
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.titulo2 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 5px;
+    border: 1px solid;
+    border-radius: 40px;
+    border-color: aquamarine;
+    word-spacing: 5px;
+    font-style: italic;
+    text-transform: capitalize;
+    
+
+    
+
+}
+  
